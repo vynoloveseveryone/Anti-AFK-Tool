@@ -14,7 +14,7 @@ If you ever need help (though you probably won’t :) ), feel free to reach out:
 This is an **open-source project** — you're free to explore, use, or modify the code.  
 Find the full source code right here on GitHub.
 
--> 
+-> https://github.com/vynoloveseveryone/source-code-anti-afk
 
 ---
 
